@@ -39,4 +39,8 @@ LAMP Stack Deployed using Ansible
 ### AWS EC2 Instance
 ![EC2](ec2.png)
 
-## 📂 Project Structure
+
+## 💡 Key Learning
+- Hands-on experience with Ansible playbooks
+- Automated server configuration
+- Basic understanding of service management in Linux
